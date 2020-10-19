@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'NoChat'
-  s.version =  ENV['LIB_VERSION'] || '3.0'
+  s.version =  ENV['LIB_VERSION'] || '1.0.2'
   s.summary = 'NoChat is a lightweight chat UI framework which has no particular faces.'
   s.homepage = 'https://github.com/tonlen/NoChat'
   s.author = 'little2s'
